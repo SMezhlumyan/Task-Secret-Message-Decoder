@@ -24,4 +24,3 @@ In this assignment, you'll work with file operations in C to decode a secret mes
 
 - EncodedMessage.txt
 
-Feel free to ask if you need further assistance with the program or any other questions!
